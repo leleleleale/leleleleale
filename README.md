@@ -27,6 +27,9 @@ Python Developer • Blender Enthusiast • Unreal Engine Learner
 - 🎨 Learning Blender
 - 📚 Interested in AI and Computer Vision
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leleleleale&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleleleale&layout=compact&theme=tokyonight"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leleleleale&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleleleale&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=leleleleale&theme=tokyonight)
