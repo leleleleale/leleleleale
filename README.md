@@ -35,8 +35,8 @@ Python Developer • Blender Enthusiast • Unreal Engine Learner
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-hafez-yusufu-heriyawan)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/manukterrbang)
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)]()
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:alhafezyusufu@gmail.com)
