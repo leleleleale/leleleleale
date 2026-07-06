@@ -27,14 +27,22 @@ Python Developer • Blender Enthusiast • Unreal Engine Learner
 - 🎨 Learning Blender
 - 📚 Interested in AI and Computer Vision
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leleleleale&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leleleleale&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleleleale&layout=compact&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleleleale&layout=compact&theme=tokyonight"/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leleleleale&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leleleleale&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=leleleleale&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=leleleleale&style=flat-square)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hello+World!;Python+Developer;Learning+Blender;Learning+Unreal+Engine)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leleleleale&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leleleleale&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hello+World!;Python+Developer;Blender+Learner;Unreal+Engine+Learner"/>
+</p>
 
 ## 🌐 Connect
 
